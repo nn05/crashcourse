@@ -1,4 +1,7 @@
 # README
+heroku:
+The key fingerprint is:
+SHA256:UgXZqUmaSzTun89uem1Jh9vLfOWGLimFXwMNfmOyki0 elisontubee@Andrijs-MacBook-Pro.local
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
